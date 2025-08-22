@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-22T23:20:00 WAT" name="Default suite" finished-at="2025-08-22T23:21:02 WAT" duration-ms="61414">
+    <groups>
+    </groups>
+    <test started-at="2025-08-22T23:20:00 WAT" name="Default test" finished-at="2025-08-22T23:21:02 WAT" duration-ms="61414">
+      <class name="testcases.Registration">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.Registration@6c6cb480]" started-at="2025-08-22T23:20:00 WAT" name="setUp" finished-at="2025-08-22T23:20:05 WAT" duration-ms="5011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testExistingEmailRegistration()[pri:0, instance:testcases.Registration@6c6cb480]" started-at="2025-08-22T23:20:05 WAT" name="testExistingEmailRegistration" finished-at="2025-08-22T23:20:20 WAT" duration-ms="14313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExistingEmailRegistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.Registration@6c6cb480]" started-at="2025-08-22T23:20:20 WAT" name="tearDown" finished-at="2025-08-22T23:20:21 WAT" duration-ms="1514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.Registration@6c6cb480]" started-at="2025-08-22T23:20:21 WAT" name="setUp" finished-at="2025-08-22T23:20:24 WAT" duration-ms="2636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testInvalidEmailRegistration()[pri:0, instance:testcases.Registration@6c6cb480]" started-at="2025-08-22T23:20:24 WAT" name="testInvalidEmailRegistration" finished-at="2025-08-22T23:20:41 WAT" duration-ms="17415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidEmailRegistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.Registration@6c6cb480]" started-at="2025-08-22T23:20:41 WAT" name="tearDown" finished-at="2025-08-22T23:20:42 WAT" duration-ms="943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.Registration@6c6cb480]" started-at="2025-08-22T23:20:42 WAT" name="setUp" finished-at="2025-08-22T23:20:45 WAT" duration-ms="2385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testValidRegistration()[pri:0, instance:testcases.Registration@6c6cb480]" started-at="2025-08-22T23:20:45 WAT" name="testValidRegistration" finished-at="2025-08-22T23:21:00 WAT" duration-ms="15838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValidRegistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.Registration@6c6cb480]" started-at="2025-08-22T23:21:00 WAT" name="tearDown" finished-at="2025-08-22T23:21:02 WAT" duration-ms="1270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.Registration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
